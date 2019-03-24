@@ -1,3 +1,2 @@
 # image-library
 
-### homepage
